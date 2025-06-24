@@ -5,7 +5,7 @@
 
 ### 🧠 Tecnologias que uso no dia a dia
 
-<div style="display: inline_block"><br>
+<div style="display: flex; gap: 3px;"><br>
   <img align="center" alt="JavaScript" height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
