@@ -1,7 +1,8 @@
-#                                Olá, eu sou o Mateus!
+#                         <h1 align="center"> Olá, eu sou o Mateus!</h1>      
 
-### Sou um desenvolvedor **Full Stack**, com início na criação de sistemas para **FiveM**, onde desenvolvi diversos scripts e interfaces. Atualmente, estou expandindo meus horizontes, mergulhando no desenvolvimento de **sites modernos, aplicações web interativas** e sistemas personalizados com foco em performance e experiência do usuário.
----
+### <div align="center">
+ Sou um desenvolvedor **Full Stack**, com início na criação de sistemas para **FiveM**, onde desenvolvi diversos scripts e interfaces. Atualmente, estou expandindo meus horizontes, mergulhando no desenvolvimento de **sites modernos, aplicações web interativas** e sistemas personalizados com foco em performance e experiência do usuário.
+</div>
 
 ### 🧠 Tecnologias que uso no dia a dia
 
@@ -21,16 +22,16 @@
 
 <div>
   <a href="https://www.youtube.com/@mateuzaugust" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+    <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
   <a href="https://www.instagram.com/mateuzaugust" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black">
+    <img src="https://img.shields.io/badge/Instagram-%23000000?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://discord.gg/7WB2xxj4AC" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+    <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white">
   </a>
   <a href="mailto:mmateushhoney@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
 
