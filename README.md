@@ -41,7 +41,7 @@ Sou um desenvolvedor **Full Stack** desde 2019, com início na criação de sist
 
 <div align="center">
   <a href="https://github.com/ma7z">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ma7z&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma7z&layout=compact&langs_count=8&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ma7z&show_icons=true&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma7z&layout=compact&langs_count=8"/>
   </a>
 </div>
