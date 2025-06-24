@@ -5,7 +5,7 @@
 
 ### 🧠 Tecnologias que uso no dia a dia
 
-<div style="display: flex; gap: 3px;"><br>
+<div style="display: block;"><br>
   <img align="center" alt="JavaScript" height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
   <a href="https://www.instagram.com/mateuzaugust" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black">
   </a>
   <a href="https://discord.gg/7WB2xxj4AC" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
