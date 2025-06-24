@@ -1,7 +1,6 @@
-## 👋 Olá, eu sou o Mateus!
+#                                Olá, eu sou o Mateus!
 
-Sou um desenvolvedor **Full Stack** desde 2019, com início na criação de sistemas para **FiveM**, onde desenvolvi diversos scripts e interfaces. Atualmente, estou expandindo meus horizontes, mergulhando no desenvolvimento de **sites modernos, aplicações web interativas** e sistemas personalizados com foco em performance e experiência do usuário.
-
+### Sou um desenvolvedor **Full Stack**, com início na criação de sistemas para **FiveM**, onde desenvolvi diversos scripts e interfaces. Atualmente, estou expandindo meus horizontes, mergulhando no desenvolvimento de **sites modernos, aplicações web interativas** e sistemas personalizados com foco em performance e experiência do usuário.
 ---
 
 ### 🧠 Tecnologias que uso no dia a dia
